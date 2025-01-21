@@ -5,6 +5,6 @@
 
 2 Western Engineering Competition Rover - SD Team 4 CAD 1
 
-3 Mechatronics Design course Rover
+3 Mechatronics Design course Rover - Mechatronics Design Rover
 
-4 Mechanical Design course 2 stage speed reducing gearbox
+4 Mechanical Design course 2 stage speed reducing gearbox -2 Stage Speed Reducing gearbox
