@@ -3,7 +3,7 @@
 
 1 Cyclodial Gearbox (in progress) (stage 2 and stage 1)
 
-2 Western Engineering Competition Rover
+2 Western Engineering Competition Rover - SD Team 4 CAD 1
 
 3 Mechatronics Design course Rover
 
