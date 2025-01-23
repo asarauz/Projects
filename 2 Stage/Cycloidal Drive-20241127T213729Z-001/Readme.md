@@ -19,3 +19,8 @@ Need to add an output shaft on output disk
 Need to finish properly putting together completed assembly
 
 **Partialaly finished assembly included**
+
+
+<img width="416" alt="image" src="https://github.com/user-attachments/assets/e4f43094-2122-4052-aaee-c545a451d3d1" />
+
+
