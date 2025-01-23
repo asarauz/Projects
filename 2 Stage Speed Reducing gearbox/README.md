@@ -10,5 +10,5 @@ full assembly was provided.
 
 <img width="296" alt="image" src="https://github.com/user-attachments/assets/5bc428ae-0d8b-45cf-9779-0c8a6ec135ff" />
 
-[Exploded view + BOM](Projects/2%20Stage%20Speed%20Reducing%20gearbox/Exploded%20view%20+%20BOM.pdf)
+<img width="407" alt="image" src="https://github.com/user-attachments/assets/4d8ff41a-3fd2-47d6-a6d7-7a751808850d" />
 
