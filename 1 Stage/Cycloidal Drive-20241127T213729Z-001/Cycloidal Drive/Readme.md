@@ -3,9 +3,11 @@ Stage 1 Gearbox was first iteration.
 Calculated the appropriate gear ratio for a 1 stage at 15:1.
 
 **Stage 1**
+
 <img width="450" alt="image" src="https://github.com/user-attachments/assets/77cc066d-f979-4ece-90e6-ffee889bd460" />
 
 **Motion Study**
+
 [![Watch the video](https://img.youtube.com/vi/p2H8cW7Wuto/0.jpg)](https://youtu.be/p2H8cW7Wuto)
 
 Assembly includes motion study with working speed reduction. Note input shaft was temporary as input motor was unkown
@@ -13,8 +15,3 @@ Assembly includes motion study with working speed reduction. Note input shaft wa
 Needed to add a second disk to minimize shaking force --> done at stage 2 for both stages. 
 
 Needed to add a second stage to increase torque output ---> done at stage 2.
-
-**Stage 2**
-<img width="416" alt="image" src="https://github.com/user-attachments/assets/e4f43094-2122-4052-aaee-c545a451d3d1" />
-
-
