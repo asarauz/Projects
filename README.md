@@ -1,7 +1,7 @@
 # Projects
 **Anthony Sarauz Aguilar Projects**
 
-Navigate to the folders above to view some projects/course work/club work I have done over my univerisy studies. Solidworks assemblies and files are included
+Click on hyperlinks below to view some projects/course work/club work I have done over my univerisy studies. Solidworks assemblies and files are included
 
 **PROJECTS:**
 
