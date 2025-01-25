@@ -5,10 +5,17 @@
 Full solidworks assembly was provided 
 
 Circuit Board:
+
 ![image](https://github.com/user-attachments/assets/973b3f14-25c1-432e-8a3f-0fdf0e6337a3)
+
+CAD:
+
+<img width="434" alt="image" src="https://github.com/user-attachments/assets/68ef0a07-4962-4fde-b475-21b281bd7443" />
+
 
 
  Building the Rover:
+ 
  ![image](https://github.com/user-attachments/assets/0db44a9d-95c2-492a-bbcb-b29400dc7252)
 
     
