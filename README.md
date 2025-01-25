@@ -8,7 +8,8 @@ Click on hyperlinks below to view some projects/course work/club work I have don
 1. Cyclodial Gearbox (in progress) (stage 2 and stage 1) - [Stage 1 Cycloidal Drive](<1 Stage/Cycloidal Drive-20241127T213729Z-001/Cycloidal Drive>), [Stage 2 Cycloidal Drive](<2 Stage/Cycloidal Drive-20241127T213729Z-001/>)
 
 
-2. Western Engineering Competition Rover - SD Team 4 CAD 1
+2. Western Engineering Competition Rover - SD Team 4 CAD 1 - [2 Stage Speed Reducing gearbox](<2 Stage Speed Reducing gearbox>)
+
 
 3. Mechatronics Design course Rover - Mechatronics Design Rover
 
