@@ -5,7 +5,7 @@ Click on hyperlinks below to view some projects/course work/club work I have don
 
 **PROJECTS:**
 
-1. [Stage 1 Cycloidal Drive (Iteration 1)](<1 Stage/Cycloidal Drive-20241127T213729Z-001/Cycloidal Drive>), [Stage 2 Cycloidal Drive (Iteration 2 in progress)](<2 Stage/Cycloidal Drive-20241127T213729Z-001/>)
+1. [Stage 1 Cycloidal Drive (Iteration 1)](<1 Stage/Cycloidal Drive-20241127T213729Z-001/Cycloidal Drive>), [Stage 2 Cycloidal Drive (Iteration 2 in progress)](<2 Stage/Cycloidal Drive-20241127T213729Z-001/>) Currently being worked on
 
 
 2. [2 Stage Speed Reducing gearbox](<2 Stage Speed Reducing gearbox>)
