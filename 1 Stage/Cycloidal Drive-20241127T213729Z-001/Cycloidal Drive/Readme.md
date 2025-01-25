@@ -2,7 +2,7 @@ Stage 1 Gearbox was first iteration.
 
 Gear ratio for a 1 stage at 15:1.
 
-**Assembely**
+**Assembly**
 
 <img width="450" alt="image" src="https://github.com/user-attachments/assets/77cc066d-f979-4ece-90e6-ffee889bd460" />
 
