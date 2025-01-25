@@ -1,6 +1,6 @@
 Stage 1 Gearbox was first iteration.
 
-Calculated the appropriate gear ratio for a 1 stage at 15:1.
+Gear ratio for a 1 stage at 15:1.
 
 **Stage 1**
 
