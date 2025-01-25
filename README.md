@@ -1,10 +1,14 @@
 # Projects
 **Anthony Sarauz Aguilar Projects**
 
-1 Cyclodial Gearbox (in progress) (stage 2 and stage 1)
+Navigate to the folders above to view some projects/course work/club work I have done over my univerisy studies. Solidworks assemblies and files are included
 
-2 Western Engineering Competition Rover - SD Team 4 CAD 1
+**PROJECTS:**
 
-3 Mechatronics Design course Rover - Mechatronics Design Rover
+1. Cyclodial Gearbox (in progress) (stage 2 and stage 1)
 
-4 Mechanical Design course 2 stage speed reducing gearbox -2 Stage Speed Reducing gearbox
+2. Western Engineering Competition Rover - SD Team 4 CAD 1
+
+3. Mechatronics Design course Rover - Mechatronics Design Rover
+
+4. Mechanical Design course 2 stage speed reducing gearbox -2 Stage Speed Reducing gearbox
