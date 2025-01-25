@@ -1,4 +1,4 @@
-Stage 1 Gearbox was first iteration.
+ 1 Stage  Gearbox was first iteration.
 
 Gear ratio for a 1 stage at 15:1.
 
