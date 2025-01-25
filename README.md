@@ -1,7 +1,7 @@
 # Projects
 **Anthony Sarauz Aguilar Projects**
 
-Click on hyperlinks below to view some projects/course work/club work I have done over my univerisy studies. Solidworks assemblies and files are included
+Click on hyperlinks below to view some projects/course work/club work I have done over my univerisy studies of which I am the most proud of. Solidworks assemblies and files are included
 
 **PROJECTS:**
 
@@ -13,4 +13,5 @@ Click on hyperlinks below to view some projects/course work/club work I have don
 
 3. [Mechatronics Design Rover](<Mechatronics Design Rover>)
 
-4. 
+4. [Western Engineering Competition 2024](<SD Team 4 CAD 1/Wec 2024>)
+
