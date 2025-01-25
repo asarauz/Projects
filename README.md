@@ -5,7 +5,7 @@ Navigate to the folders above to view some projects/course work/club work I have
 
 **PROJECTS:**
 
-1. Cyclodial Gearbox (in progress) (stage 2 and stage 1)
+1. Cyclodial Gearbox (in progress) (stage 2 and stage 1) - [stage 1 cycloidal drive](<1 Stage/Cycloidal Drive-20241127T213729Z-001/Cycloidal Drive>)
 
 2. Western Engineering Competition Rover - SD Team 4 CAD 1
 
