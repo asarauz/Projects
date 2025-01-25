@@ -8,7 +8,7 @@ Assembly is still in working progress.
 
 **What it needs:**
 
-Need to finish outer casing with fasterns 
+Need to finish outer casing with fasteners 
 
 Need to add PTFE spacers between output disk and cycloidal disk to reduce friction on both stages.
 
