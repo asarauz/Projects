@@ -2,9 +2,8 @@
 : For Mechanical Design Course 
 
 Perfomed stress analysis calculations to determine shaft sizing, gear sizing and bearing selection while mainting desired gear ratio as outlined in the report PDF.
-**(2 Stage GearBox Report.pdf)** e
 
-[2 Stage GearBox Report](<2 Stage GearBox Report.pdf>)
+[2 Stage GearBox Report PDF](<2 Stage GearBox Report.pdf>)
 
 
 full assembly was provided.
