@@ -2,7 +2,7 @@
 
 Perfomed stress analysis calculations to determine shaft sizing, gear sizing and bearing selection while mainting desired gear ratio as outlined in the report PDF.
 
-[2 Stage GearBox Report](<Projects/2 Stage Speed Reducing gearbox/2 Stage GearBox Report.pdf>)
+[2 Stage GearBox Report](<2 Stage Speed Reducing gearbox/2 Stage GearBox Report.pdf>)
 
 full assembly was provided.
 
