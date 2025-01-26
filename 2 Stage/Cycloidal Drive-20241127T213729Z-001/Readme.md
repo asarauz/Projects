@@ -1,4 +1,4 @@
-Stage 2 Gearbox
+**Stage 2 Gearbox**
 
 Gear ratio now 15*15 = 225:1. Although in reality will be less due to effeciency loss
 
