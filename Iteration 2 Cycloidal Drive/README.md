@@ -21,6 +21,7 @@ Parametric Equations:
 X(t) = (Rcos(t)) - (Rrcos(t + arctan(sin((1-N)t)/((R/EN)-cos((1-N)t)))))-(Ecos(Nt))
 
 Y(t) = (-Rsin(t)) + (Rrsin(t + arctan(sin((1-N)t)/((R/EN)-cos((1-N)t))))) + (Esin(Nt))
+
 For the updated design:
 
 X(t) = (1.75cos(t)) - (0.125cos(t + arctan(sin((1-31)t)/((1.129)-cos((1-31)t)))))-(0.05cos(31t))
