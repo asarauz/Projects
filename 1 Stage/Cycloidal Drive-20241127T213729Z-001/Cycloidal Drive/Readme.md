@@ -1,4 +1,4 @@
-**Cycloidal Gearbox - First Iteration (14:1 Gear Ratio)**
+**Cycloidal Gearbox - First Iteration (14:1 Gear Ratio):**
 This cycloidal gearbox is part of the design for the elbow joint of a Mars rover developed by the club We Mars at Western University. The goal is to create a compact, efficient gearbox that can handle the unique demands of the rover’s arm, ensuring smooth and reliable movement in the challenging conditions of space exploration. This first iteration focuses on achieving a 14:1 gear ratio, optimizing torque and minimizing friction for the rover’s elbow joint.
 This cycloidal drive was designed with a 14:1 gear ratio using barrel screws as output shaft pins. A cycloidal gearbox operates by converting rotary motion into an output with a very smooth, precise motion that offers higher torque output and less backlash compared to traditional gear systems. The drive is composed of a cycloidal disk, which is rotated by a set of rollers that follow a cycloidal path. As the disk turns, the rollers move along the edges and transmit motion to the output shaft through its output pins.
 
@@ -31,8 +31,3 @@ Furthermore, this was just a first iteration design where we underestimated the 
 
 [![Watch the video](https://img.youtube.com/vi/p2H8cW7Wuto/0.jpg)](https://youtu.be/p2H8cW7Wuto)
 
-Assembly includes motion study with working speed reduction. Note input shaft was temporary as input motor was unkown
-
-Needed to add a second disk to minimize shaking force --> done at stage 2 for both stages. 
-
-Needed to add a second stage to increase torque output ---> done at stage 2.
