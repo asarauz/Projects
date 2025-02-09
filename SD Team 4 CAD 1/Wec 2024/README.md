@@ -8,6 +8,8 @@ My primary contribution to the project involved handling the electronics and cod
    
 During testing, we initially couldn't even lift the arm due to the long moment arm. To resolve this, we shortened the moment arm and raised the motor height until we achieved the required minimum 10 cm height elevation with the arm. Even with this modification we experienced issues with the arm shaking and struggling to hit its full range of motion during the competition presentations. Although this is true, we were still able to pick up most of the magnetic material and traverse the obstacle course using our infrared sensor remote. With this accomplishment we were able to place third place in this competition. This challenge taught me to step outside my comfort zone. We feared implementing the spool system because it is a more complex system and we only had a limited amount of time to build this rover. In hindsight, trying the spool design might have solved some of the problems we faced. Ultimately, we secured third place in the competition, but the experience emphasized the importance of iterating, testing, and pushing the boundaries of our initial ideas.
 
+
+
  
  ![image](https://github.com/user-attachments/assets/0db44a9d-95c2-492a-bbcb-b29400dc7252)
 
