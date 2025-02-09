@@ -9,9 +9,13 @@ One of the key changes was the addition of a second cycloidal disk, which is pos
 The updated parametric equations for this new design are as follows:
 
 N = 31
+
 R = 1.75 inches
+
 Rr = 0.125 inches
+
 E = 0.05 inches
+
 Parametric Equations:
 X(t) = (Rcos(t)) - (Rrcos(t + arctan(sin((1-N)t)/((R/EN)-cos((1-N)t)))))-(Ecos(Nt))
 
