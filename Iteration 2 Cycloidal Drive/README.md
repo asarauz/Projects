@@ -14,10 +14,12 @@ Rr = 0.125 inches
 E = 0.05 inches
 Parametric Equations:
 X(t) = (Rcos(t)) - (Rrcos(t + arctan(sin((1-N)t)/((R/EN)-cos((1-N)t)))))-(Ecos(Nt))
+
 Y(t) = (-Rsin(t)) + (Rrsin(t + arctan(sin((1-N)t)/((R/EN)-cos((1-N)t))))) + (Esin(Nt))
 For the updated design:
 
 X(t) = (1.75cos(t)) - (0.125cos(t + arctan(sin((1-31)t)/((1.129)-cos((1-31)t)))))-(0.05cos(31t))
+
 Y(t) = (-1.75sin(t)) + (0.125sin(t + arctan(sin((1-31)t)/((1.129)-cos((1-31)t))))) + (0.05sin(31t))
 
 These adjustments to the gearbox design allow us to better meet the torque requirements while also improving the overall performance of the elbow joint system. The increased gear ratio and the addition of the second cycloidal disk ensure that the rover’s arm can operate more smoothly, even under heavier loads.
