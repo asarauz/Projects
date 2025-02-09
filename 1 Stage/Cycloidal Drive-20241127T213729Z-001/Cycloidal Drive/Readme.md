@@ -7,13 +7,21 @@ In a cycloidal drive, the output shaft is driven by the pins that roll on a cycl
 
 **Gear Ratio:**
 For this particular design, a 14:1 gear ratio was achieved. This was achieved by carefully designing the geometry of the cycloidal disk to interact with the rollers in a way that reduces the mechanical stress and optimizes torque transmission.
+
 The design uses the following parametric equations for the cycloidal path:
+
 X(t) = (Rcos(t)) - (Rrcos(t + arctan(sin((1-N)t)/((R/EN) - cos((1-N)t)))))-(Ecos(Nt))
+
 Y(t) = (-Rsin(t)) + (Rrsin(t + arctan(sin((1-N)t)/((R/EN) - cos((1-N)t))))) + (Esin(Nt))
+
 Where:
+
 R = Rotor radius (1.75 inches)
+
 Rr = Roller radius (0.25 inches)
+
 E = Eccentric offset (0.075 inches)
+
 N = Number of rollers (15)
 
 **Design Challenges:**
