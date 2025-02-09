@@ -1,5 +1,6 @@
 **Senior Design Competition, Western University London**,
 
+
  	In this competition, teams were tasked with designing and building an RC rover in an 8 hour time frame, using a set of materials and electronics provided. The goal was to create a robot that could traverse an obstacle course, pick up magnetic material from a height of 5 cm, and deposit it at a base station 10 cm above the ground. Built Rover can be seen in Figure 1
   
    Throughout the competition, my team followed an iterative design process. Initially, we considered using an arm to collect and dispose of the magnetic material, but we debated whether a spool mechanism would be better. I argued that, given the low operating torque of the motor, the electromagnet would be too heavy, especially with a long moment arm. I suggested using a spool and motor system to pull the arm up with a fishing line to eliminate the moment force, allowing the system to operate with pure tension. However, our team ultimately decided to go with the arm design, thinking it would be simpler to implement given the time constraint. See Figure 2 to see the designed model on Solidworks before implementation.
