@@ -17,6 +17,7 @@ Rr = 0.125 inches
 E = 0.05 inches
 
 Parametric Equations:
+
 X(t) = (Rcos(t)) - (Rrcos(t + arctan(sin((1-N)t)/((R/EN)-cos((1-N)t)))))-(Ecos(Nt))
 
 Y(t) = (-Rsin(t)) + (Rrsin(t + arctan(sin((1-N)t)/((R/EN)-cos((1-N)t))))) + (Esin(Nt))
