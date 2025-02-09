@@ -19,6 +19,7 @@ For the updated design:
 
 X(t) = (1.75cos(t)) - (0.125cos(t + arctan(sin((1-31)t)/((1.129)-cos((1-31)t)))))-(0.05cos(31t))
 Y(t) = (-1.75sin(t)) + (0.125sin(t + arctan(sin((1-31)t)/((1.129)-cos((1-31)t))))) + (0.05sin(31t))
+
 These adjustments to the gearbox design allow us to better meet the torque requirements while also improving the overall performance of the elbow joint system. The increased gear ratio and the addition of the second cycloidal disk ensure that the rover’s arm can operate more smoothly, even under heavier loads.
 
 <img width="342" alt="image" src="https://github.com/user-attachments/assets/4c23f4f3-d01a-423e-a365-b6546df3aa52" />
