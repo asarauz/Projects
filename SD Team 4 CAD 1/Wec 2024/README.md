@@ -1,4 +1,4 @@
-**Senior Design Competition, Western University London**, ON - November 2024
+**Senior Design Competition, Western University London**,
 
  	In this competition, teams were tasked with designing and building an RC rover in an 8 hour time frame, using a set of materials and electronics provided. The goal was to create a robot that could traverse an obstacle course, pick up magnetic material from a height of 5 cm, and deposit it at a base station 10 cm above the ground. Built Rover can be seen in Figure 1
   
