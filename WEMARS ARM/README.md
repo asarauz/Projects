@@ -27,7 +27,7 @@ My work included:
 
 Testing showed that the completed gearbox achieved approximately 73.5% efficiency and provided sufficient torque to lift the required payload.
 
-![WEMARS Echo Arm](GB.jpeg) ![WEMARS Echo Arm](GBD.jpeg)
+![WEMARS Echo Arm](GB.png) ![WEMARS Echo Arm](GBD.png)
 
 ### End Effector
 
@@ -42,14 +42,14 @@ My work included:
 - Iterating the design to improve strength, range of motion, and manufacturability
 - Manufacturing, assembling, and testing the final mechanism
   
-![WEMARS Echo Arm](EE.jpeg) ![WEMARS Echo Arm](EED.jpeg)
+![WEMARS Echo Arm](EE.png) ![WEMARS Echo Arm](EED.png)
 ### Wrist Torque Transmission
 
 I assisted with the mechanical development of the wrist, focusing on transmitting torque from the wrist servos to the rotating joints. During prototype testing, the original 3D-printed transmission shaft experienced significant torsional compliance, causing delayed movement and reducing the responsiveness of the end effector.
 
 I helped refine the transmission system by incorporating steel tubing and improving the pinned connections between the servo, transmission shaft, and wrist joint. The revised design reduced the unsupported shaft length, increased torsional stiffness, and minimized backlash between motor movement and end-effector response.
 
-![WEMARS Echo Arm](Wrist.jpeg)
+![WEMARS Echo Arm](Wrist.png)
 
 ## Project Results
 
