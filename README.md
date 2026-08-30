@@ -5,14 +5,16 @@ Click on hyperlinks below to view some projects/course work/club work I have don
 
 **PROJECTS:**
 
-1. [Iteration 1 Cycloidal Drive (Iteration 1)](<1 Stage/Cycloidal Drive-20241127T213729Z-001/Cycloidal Drive>), [Iteration 2 Cycloidal Drive](<Iteration 2 Cycloidal Drive>) 
+1.[Mars Rover Capstone Project](<1WEMARS ARM>)
+
+2. [Iteration 1 Cycloidal Drive (Iteration 1)](<1 Stage/Cycloidal Drive-20241127T213729Z-001/Cycloidal Drive>), [Iteration 2 Cycloidal Drive](<Iteration 2 Cycloidal Drive>) 
 
 
-2. [Western Engineering Competition 2024](<SD Team 4 CAD 1/Wec 2024>)
+3. [Western Engineering Competition 2024](<SD Team 4 CAD 1/Wec 2024>)
 
 
-3. [2 Stage Speed Reducing gearbox](<2 Stage Speed Reducing gearbox>)
+4. [2 Stage Speed Reducing gearbox](<2 Stage Speed Reducing gearbox>)
 
    
-4. [Mechatronics Design Rover](<Mechatronics Design Rover>)
+5. [Mechatronics Design Rover](<Mechatronics Design Rover>)
 
