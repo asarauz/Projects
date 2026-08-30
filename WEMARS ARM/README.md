@@ -5,8 +5,7 @@ Echo Arm was my fourth-year engineering capstone project, completed in collabora
 The completed system is a multi-degree-of-freedom robotic arm featuring a redesigned elbow joint, wrist, and end effector. Instead of controlling each joint individually using joysticks, the arm uses vision-based human pose tracking to map an operator’s arm movements to the robotic arm. This reduces the mental effort required to operate the arm and allows competition tasks to be completed more naturally.
 
 The final prototype successfully demonstrated object retrieval and block-stacking tasks while supporting a 3 kg payload. The project involved mechanical design, CAD, motor and gearbox selection, torque calculations, finite element analysis, additive manufacturing, control-system development, assembly, and physical prototype testing.
-[image](https://github.com/user-attachments/assets/IMG_1534)
- ![image](WEMARS ARM/IMG_1534.jpeg)   ![image](https://github.com/user-attachments/assets/0db44a9d-95c2-492a-bbcb-b29400dc7252)
+[image](https://github.com/user-attachments/assets/IMG_1534.jpeg) [image](https://github.com/user-attachments/assets/0db44a9d-95c2-492a-bbcb-b29400dc7252)
 
 
 ## My Contributions
