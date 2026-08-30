@@ -6,7 +6,7 @@ The completed system is a multi-degree-of-freedom robotic arm featuring a redesi
 
 The final prototype successfully demonstrated object retrieval and block-stacking tasks while supporting a 3 kg payload. The project involved mechanical design, CAD, motor and gearbox selection, torque calculations, finite element analysis, additive manufacturing, control-system development, assembly, and physical prototype testing.
 ![WEMARS Echo Arm](IMG_1534.jpeg) ![WEMARS Echo Arm](IMG_1630.jpeg)
-
+https://youtube.com/shorts/tIuzLNH5kdA?si=FfU8i9opaCRX72px
 ## My Contributions
 
 My primary responsibility was the mechanical design and development of the elbow joint and end effector. I also assisted with the wrist design, particularly the components responsible for transmitting motor torque through the wrist assembly.
